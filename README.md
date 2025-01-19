@@ -1,9 +1,14 @@
 # 💫 About Me:
 Hi, I’m Melissa Hernández, a results-driven Full Stack Developer with a passion for crafting scalable and efficient software solutions.
+
 🌟 My expertise lies in building robust web platforms and automating processes using technologies like Python, React, and more.
+
 🎯 I thrive on solving complex challenges and delivering high-impact applications.
+
 🚀 "Transforming innovative ideas into tangible results, one line of code at a time."
+
 ⚡ Constantly exploring emerging technologies and methodologies to stay ahead in the tech industry.
+
 💡 Fun Fact: I enjoy combining art and technology in personal projects to create unique experiences!
 
 ---
