@@ -13,7 +13,7 @@ Hi, I’m Melissa Hernández, a results-driven Full Stack Developer with a passi
 
 ## 💻 Technologies:
 ### Programming Languages:
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white) ! ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-%230073CF.svg?style=flat&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-%230073CF.svg?style=flat&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 
 ### Databases:
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/mariadb-%23003545.svg?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-%23008AC9.svg?style=flat&logo=dbeaver&logoColor=white) ![Workbench](https://img.shields.io/badge/MySQL_Workbench-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=flat&logo=xampp&logoColor=white)
@@ -41,13 +41,6 @@ Hi, I’m Melissa Hernández, a results-driven Full Stack Developer with a passi
 
 ### Project Management Tools:
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![JIRA](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=flat&logo=trello&logoColor=white) ![Asana](https://img.shields.io/badge/asana-%23F06A6A.svg?style=flat&logo=asana&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23036BC3.svg?style=flat&logo=confluence&logoColor=white) ![Plane.so](https://img.shields.io/badge/plane.so-%23000000.svg?style=flat&logoColor=white)
-
----
-
-## 📈 Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mel-hdez&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mel-hdez&theme=radical&hide_border=true)
-![Top Languages](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 
 ---
 
