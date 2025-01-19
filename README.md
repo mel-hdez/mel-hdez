@@ -16,13 +16,12 @@ Hi, I’m Melissa Hernández, a results-driven Full Stack Developer with a passi
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-%230073CF.svg?style=flat&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 
 ### Databases:
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/mariadb-%23003545.svg?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-%23008AC9.svg?style=flat&logo=dbeaver&logoColor=white) ![Workbench](https://img.shields.io/badge/MySQL_Workbench-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=flat&logo=xampp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/mariadb-%23003545.svg?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Workbench](https://img.shields.io/badge/MySQL_Workbench-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-### Backend Frameworks:
+### Backend:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) 
-![Composer](https://img.shields.io/badge/composer-%230083C8.svg?style=flat&logo=composer&logoColor=white) 
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white)
 
 ### Frontend Frameworks and Tools:
